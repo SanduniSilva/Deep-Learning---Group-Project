@@ -9,3 +9,5 @@ Tasks:
  3. Developing and training deep learning models (such as LSTM or Transformer)
  4. Performing model selection
  5. Evaluating the models' performance in terms of profitability and variability.
+
+[View the Full Report](https://github.com/SanduniSilva/Deep-Learning---Group-Project/blob/2a88e015aa92376e41be9ca58fd3e161cdc17296/Analytical%20Report.pdf)
